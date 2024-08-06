@@ -4,7 +4,7 @@
 
 challenge was to create email validation regrex tutorial.
 
-repo link: 
+repo link: https://github.com/taperez1989/regexTutor.git
 
 ##MIT License
 
