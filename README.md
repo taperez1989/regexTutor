@@ -4,6 +4,8 @@
 
 challenge was to create email validation regrex tutorial.
 
+gist link: https://gist.github.com/taperez1989/8a01c52cfd2eb6902a6638046a0fc84d
+
 repo link: https://github.com/taperez1989/regexTutor.git
 
 ##MIT License
